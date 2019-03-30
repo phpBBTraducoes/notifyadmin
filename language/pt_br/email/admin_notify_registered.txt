@@ -1,4 +1,4 @@
-Assunto: Novo registro de usuário
+Subject: Novo registro de usuário
 
 Um usuário registrou-se no seu fórum "{SITENAME}".
 
